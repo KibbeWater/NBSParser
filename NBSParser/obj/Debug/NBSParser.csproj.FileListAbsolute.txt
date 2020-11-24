@@ -1,0 +1,6 @@
+C:\Users\thecy\source\repos\NBSInstruments\NBSInstruments\bin\Debug\NBSInstruments.exe.config
+C:\Users\thecy\source\repos\NBSInstruments\NBSInstruments\bin\Debug\NBSInstruments.exe
+C:\Users\thecy\source\repos\NBSInstruments\NBSInstruments\bin\Debug\NBSInstruments.pdb
+C:\Users\thecy\source\repos\NBSInstruments\NBSInstruments\obj\Debug\NBSParser.csproj.CoreCompileInputs.cache
+C:\Users\thecy\source\repos\NBSInstruments\NBSInstruments\obj\Debug\NBSInstruments.exe
+C:\Users\thecy\source\repos\NBSInstruments\NBSInstruments\obj\Debug\NBSInstruments.pdb
